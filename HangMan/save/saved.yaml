@@ -1,0 +1,41 @@
+--- !ruby/object:Guide
+board: !ruby/object:Board
+  rightArr:
+  - _
+  - a
+  - _
+  - _
+  - e
+  - _
+  - _
+  - u
+  - _
+  - _
+  wrongGuesses:
+  - i
+  - o
+  - p
+  guessesLeft: 9
+letters:
+- C
+- a
+- n
+- t
+- e
+- r
+- b
+- u
+- r
+- y
+guess: save
+index_arr:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
